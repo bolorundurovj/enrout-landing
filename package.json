@@ -1,7 +1,7 @@
 {
   "name": "landwind",
   "version": "1.0.0",
-  "description": "Landwind is a free and open-source landing page built with Tailwind CSS and Flowbite for SaaS and product websites.",
+  "description": "Enrout is a free and open-source landing page built with Tailwind CSS and Flowbite for SaaS and product websites.",
   "main": "index.js",
   "scripts": {
     "start": "node index",
