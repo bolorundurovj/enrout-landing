@@ -10,6 +10,11 @@
     "lint:fix": "eslint . --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint:fix"
+    }
+  },  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/themesberg/landwind.git"
@@ -36,6 +41,7 @@
   "devDependencies": {
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.25.2",
+    "husky": "^8.0.3",
     "nodemon": "^2.0.20",
     "tailwindcss": "^3.1.4"
   },
