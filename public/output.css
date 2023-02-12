@@ -1729,7 +1729,7 @@ input:checked + .toggle-bg {
   color: rgb(17 24 39 / var(--tw-text-opacity));
 }
 
-.text-blue-500 {
+.text-blue-600 {
   --tw-text-opacity: 1;
   color: rgb(144 97 249 / var(--tw-text-opacity));
 }
@@ -2004,7 +2004,7 @@ input:checked + .toggle-bg {
   color: rgb(172 148 250 / var(--tw-text-opacity));
 }
 
-.dark .dark\:text-blue-500 {
+.dark .dark\:text-blue-600 {
   --tw-text-opacity: 1;
   color: rgb(144 97 249 / var(--tw-text-opacity));
 }
@@ -2019,7 +2019,7 @@ input:checked + .toggle-bg {
   color: rgb(49 196 141 / var(--tw-text-opacity));
 }
 
-.dark .dark\:text-blue-500 {
+.dark .dark\:text-blue-600 {
   --tw-text-opacity: 1;
   color: rgb(63 131 248 / var(--tw-text-opacity));
 }
@@ -2059,7 +2059,7 @@ input:checked + .toggle-bg {
   color: rgb(108 43 217 / var(--tw-text-opacity));
 }
 
-.dark .dark\:hover\:text-blue-500:hover {
+.dark .dark\:hover\:text-blue-600:hover {
   --tw-text-opacity: 1;
   color: rgb(63 131 248 / var(--tw-text-opacity));
 }
