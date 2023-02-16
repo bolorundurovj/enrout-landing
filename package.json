@@ -8,7 +8,7 @@
     "start:dev": "nodemon index",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Warning: no test specified\" && exit 0"
   },
   "husky": {
     "hooks": {
