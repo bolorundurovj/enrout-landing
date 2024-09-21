@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "eslint": "^7.32.0 || ^8.2.0",
-    "express": "^4.19.2",
+    "express": "^4.20.0",
     "express-rate-limit": "^6.7.0",
     "flowbite": "^1.4.7"
   }
